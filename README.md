@@ -1,2 +1,2 @@
 # Falcon7bFineTuning
-This notebook provides a pattern for empirically measuring model latency in Google Colab.
+This notebook provides a working setup for fine-tuning tiiuae/falcon-7b.
